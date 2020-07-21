@@ -1,4 +1,4 @@
-#Color Palette with RAL value
+# Color Palette with RAL value
 
 ## Available Scripts
 
