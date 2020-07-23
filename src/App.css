@@ -9,8 +9,13 @@
 .head > h1 {
   font-weight: bolder;
 }
+.colorContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .colorItem {
-  width: 270px;
+  width: 285px;
   height: 200px;
   margin: 5px 0 5px 0;
   display: flex;
@@ -21,6 +26,7 @@
 .colorData {
   width: 100%;
   height: auto;
+  color: white;
   background-color: black;
   display: flex;
   flex-direction: column;

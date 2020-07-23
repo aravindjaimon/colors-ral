@@ -10,14 +10,13 @@ function App() {
         <h1>RAL Color Values</h1>
       </div>
       <Container>
-        <Row>
+        <Row className="colorContainer">
           {colors.map((data, key) => {
             return (
               <div
                 key={key}
                 style={{
                   backgroundColor: data.value,
-                  color: "white",
                 }}
                 className="colorItem"
               >
