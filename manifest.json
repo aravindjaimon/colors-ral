@@ -1,0 +1,8 @@
+{
+  "short_name": "Colors",
+  "name": "Color Palette with RAL Value",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

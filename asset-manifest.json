@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/colors-ral/static/css/main.3365be15.chunk.css",
+    "main.js": "/colors-ral/static/js/main.77668f35.chunk.js",
+    "main.js.map": "/colors-ral/static/js/main.77668f35.chunk.js.map",
+    "runtime-main.js": "/colors-ral/static/js/runtime-main.19ed8e84.js",
+    "runtime-main.js.map": "/colors-ral/static/js/runtime-main.19ed8e84.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/colors-ral/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5493e025.chunk.js": "/colors-ral/static/js/2.5493e025.chunk.js",
+    "static/js/2.5493e025.chunk.js.map": "/colors-ral/static/js/2.5493e025.chunk.js.map",
+    "index.html": "/colors-ral/index.html",
+    "precache-manifest.caf6188f3eb0413ccd9c9825d987a7f5.js": "/colors-ral/precache-manifest.caf6188f3eb0413ccd9c9825d987a7f5.js",
+    "service-worker.js": "/colors-ral/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/colors-ral/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.3365be15.chunk.css.map": "/colors-ral/static/css/main.3365be15.chunk.css.map",
+    "static/js/2.5493e025.chunk.js.LICENSE.txt": "/colors-ral/static/js/2.5493e025.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ed8e84.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5493e025.chunk.js",
+    "static/css/main.3365be15.chunk.css",
+    "static/js/main.77668f35.chunk.js"
+  ]
+}
